@@ -1,6 +1,6 @@
 .container {
     max-width: 964px;
-    font-family: 'Lato', sans-serif;
+    font-family: Lato, sans-serif;
 }
 
 .header {
@@ -18,12 +18,11 @@
 
 hr {
     height: 5px;
-    background-color: #CDCDCD;
+    background-color: #cdcdcd;
     margin-top: 0;
     margin-bottom: 15px;
 }
 
 .projects hr {
     margin-top: 10px;
-
 }
