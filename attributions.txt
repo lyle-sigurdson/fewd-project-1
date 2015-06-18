@@ -1,1 +1,17 @@
 - Photos are from Unrestricted Stock (http://unrestrictedstock.com)
+- I didn't copy anything directly from anywhere; I did reference:
+    - Bootstrap documentation
+    - Udacity courses Intro To HTML and CSS, Responsive Web Design Fundamentals,
+      and Responsive Images.
+    - http://stackoverflow.com/questions/4151743/how-i-change-the-thickness-of-my-hr-tag
+    - http://html5hub.com/srcset-attribute-solving-responsive-image-dilemma/
+    - https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/
+    - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup
+    - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document
+    - https://developer.mozilla.org/en/docs/Web/HTML/Element
+    - https://ericportis.com/posts/2014/srcset-sizes/
+    - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source
+    - https://www.youtube.com/watch?v=h7H-t5ZV7YY
+    - http://html5hub.com/srcset-attribute-solving-responsive-image-dilemma/
+    - https://teamtreehouse.com/forum/css-question-what-is-the-difference-between-width-and-maxwidth
+    - http://stackoverflow.com/questions/6456468/css-width-and-max-width
